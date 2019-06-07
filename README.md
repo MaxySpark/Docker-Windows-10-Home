@@ -7,7 +7,7 @@ Docker Install in Windows 10 Home
 ### Steps
   1. Download or Clone This Repo [Click Here](https://github.com/MaxySpark/Docker-Windows-10-Home/archive/master.zip)
   2. Extract The ZIP File
-  3. Right click on the `hyperB.bat` file and **Run as Administrator**  
+  3. Right click on the `hyperV.bat` file and **Run as Administrator**  
   4. __Restart__ the Computer
   5. Right click on the `container.bat` file and **Run as Administrator**
   6. __Restart__ the Computer
