@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion]
+"EditionID"="CoreSingleLanguage"
+"ProductName"="Windows 10 Home Single Language"
