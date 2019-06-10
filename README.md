@@ -3,6 +3,7 @@ Docker Install in Windows 10 Home
 
 ### Prerequisite
   * [x] Enable Virtualization in BIOS
+  * [x] Active Internet Connection
 
 ### Steps
   1. Download or Clone This Repo [Click Here](https://github.com/MaxySpark/Docker-Windows-10-Home/archive/master.zip)
